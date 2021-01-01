@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 variable "location" {
     type = string
     description = "resource location"
@@ -14,14 +13,3 @@ variable "kubernetes_version" {
 variable "ssh_key" {
    
 }
-
-=======
-variable "username" {
-    type = string
-    description = "admin username"
-}
-
-variable "password" {
-    type = string
-}
->>>>>>> fb2476a4647296109b364bd15faa5c406abaec7c
